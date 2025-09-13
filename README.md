@@ -31,7 +31,7 @@ This project demonstrates **data preprocessing, machine learning modeling, and v
 
 1. Clone this repository  
 ```bash
-git clone https://github.com/your-username/sales-partner-insights.git
+git clone https://github.com/jatingujju/sales-partner-insights.git
 cd sales-partner-insights
 ```
 
